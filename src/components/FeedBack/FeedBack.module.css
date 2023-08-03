@@ -1,0 +1,8 @@
+.button_list {
+    gap: 20px;
+}
+
+.button {
+    padding: 5px;
+    margin: 5px;
+}
